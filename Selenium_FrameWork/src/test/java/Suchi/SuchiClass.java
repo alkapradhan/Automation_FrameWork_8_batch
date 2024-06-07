@@ -8,7 +8,7 @@ public class SuchiClass
 	@Test
 	public void test()
 	{
-		Reporter.log("suchiclass added",true);
+		Reporter.log("sclass added",true);
 	}
 
 }

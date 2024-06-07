@@ -1,5 +1,6 @@
 package suchitra;
 
-public class SuchitraClass {
+public class SuchitraClass 
+{
 
 }
